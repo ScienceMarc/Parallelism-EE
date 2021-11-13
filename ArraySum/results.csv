@@ -1,0 +1,11 @@
+benchmark,array size,exectution time (ns)
+singlethreaded,32, 17.20
+multithreaded,32, 5543
+singlethreaded,1024, 358.1
+multithreaded,1024, 5701
+singlethreaded,32768,12184
+multithreaded,32768, 13571
+singlethreaded,1048576, 550743
+multithreaded,1048576, 126394
+singlethreaded,33554432, 24007977
+multithreaded,33554432, 8407734

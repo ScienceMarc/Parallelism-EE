@@ -1,0 +1,14 @@
+BenchmarkAddSinglethread5-12     	70595709	        17.20 ns/op	       0 B/op	       0 allocs/op
+BenchmarkAddMulticore5-12        	  216106	      5543 ns/op	     976 B/op	      26 allocs/op
+
+BenchmarkAddSinglethread10-12    	 3377988	       358.1 ns/op	       0 B/op	       0 allocs/op
+BenchmarkAddMulticore10-12       	  215676	      5701 ns/op	     976 B/op	      26 allocs/op
+
+BenchmarkAddSinglethread15-12    	   88701	     12184 ns/op	       2 B/op	       0 allocs/op
+BenchmarkAddMulticore15-12       	   89416	     13571 ns/op	     978 B/op	      26 allocs/op
+
+BenchmarkAddSinglethread20-12    	    2400	    550743 ns/op	    3495 B/op	       0 allocs/op
+BenchmarkAddMulticore20-12       	    9351	    126394 ns/op	    1873 B/op	      26 allocs/op
+
+BenchmarkAddSinglethread25-12    	      56	  24007977 ns/op	 4793490 B/op	       0 allocs/op
+BenchmarkAddMulticore25-12       	     138	   8407734 ns/op	 1946160 B/op	      26 allocs/op

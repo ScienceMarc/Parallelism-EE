@@ -1,0 +1,13 @@
+benchmark, CPUS, time (ns)
+BenchmarkAddMulticore20,1,572608
+BenchmarkAddMulticore20,2,286515
+BenchmarkAddMulticore20,3,205801
+BenchmarkAddMulticore20,4,174615
+BenchmarkAddMulticore20,5,170561
+BenchmarkAddMulticore20,6,156709
+BenchmarkAddMulticore20,7,164896
+BenchmarkAddMulticore20,8,166848
+BenchmarkAddMulticore20,9,164217
+BenchmarkAddMulticore20,10,164012
+BenchmarkAddMulticore20,11,170282
+BenchmarkAddMulticore20,12,163892
