@@ -1,0 +1,17 @@
+Benchmark, size, time (ns)
+BenchmarkPrimes/Single_Threaded,1e1,137.4
+BenchmarkPrimes/Multi_Threaded,1e1,4802
+BenchmarkPrimes/Single_Threaded,100,1777
+BenchmarkPrimes/Multi_Threaded,100,31285
+BenchmarkPrimes/Single_Threaded,1000,36610
+BenchmarkPrimes/Multi_Threaded,1000,245949
+BenchmarkPrimes/Single_Threaded,10000,753547
+BenchmarkPrimes/Multi_Threaded,10000,2400725
+BenchmarkPrimes/Single_Threaded,100000,16875138
+BenchmarkPrimes/Multi_Threaded,100000,23577036
+BenchmarkPrimes/Single_Threaded,1000000,408125936
+BenchmarkPrimes/Multi_Threaded,1000000,232758153
+BenchmarkPrimes/Single_Threaded,10000000,10326092417
+BenchmarkPrimes/Multi_Threaded,10000000,2537628307
+BenchmarkPrimes/Single_Threaded,100000000,278515003854
+BenchmarkPrimes/Multi_Threaded,100000000,46421096862
